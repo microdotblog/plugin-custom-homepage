@@ -1,0 +1,12 @@
+{
+	"version": "1.0",
+	"title": "Custom home page",
+	"description": "Replaces your blog home page with text instead of recent posts.",
+	"fields": [
+		{
+			"field": "params.custom_homepage_text",
+			"label": "Home page text",
+			"type": "markdown"
+		}
+	]
+}
